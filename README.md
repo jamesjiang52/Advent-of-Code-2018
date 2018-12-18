@@ -14,7 +14,7 @@ All scripts are written in Python 3.7, using only built-in functions, constants,
 |[Day 4 - Repose Record](Days/Day%204%20-%20Repose%20Record)
 |[Day 5 - Alchemical Reduction](Days/Day%205%20-%20Alchemical%20Reduction)
 |[Day 6 - Chronal Coordinates](Days/Day%206%20-%20Chronal%20Coordinates)
-|[Day 7 - The Sum of Its Parts](Days/Day 7%20-%20The%20Sum%20of%20Its%20Parts)
+|[Day 7 - The Sum of Its Parts](Days/Day%207%20-%20The%20Sum%20of%20Its%20Parts)
 |[Day 8 - Memory Maneuver](Days/Day%208%20-%20Memory%20Maneuver)
 |[Day 9 - Marble Mania](Days/Day%209%20-%20Marble%20Mania)
 |[Day 10 - The Stars Align](Days/Day%2010%20-%20The%20Stars%20Align)
